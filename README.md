@@ -2,11 +2,11 @@
 A mobile app for managing study tasks, built with React Native and Expo.
 
 # Screenshots
-<img src="https://github.com/user-attachments/assets/4e170718-8df8-43a7-8443-6dfdc47c0a4b" />
+https://github.com/user-attachments/assets/4e170718-8df8-43a7-8443-6dfdc47c0a4b
 
-<img src="https://github.com/user-attachments/assets/a6da5493-f7b7-4d29-ab7a-b8be4b843f2b" />
+https://github.com/user-attachments/assets/a6da5493-f7b7-4d29-ab7a-b8be4b843f2b
 
-<img src="https://github.com/user-attachments/assets/22f48756-a293-4fe1-9dc2-af082af3d986" />
+https://github.com/user-attachments/assets/22f48756-a293-4fe1-9dc2-af082af3d986
 
 # Features
  Add, complete, and delete study tasks
@@ -26,7 +26,7 @@ A mobile app for managing study tasks, built with React Native and Expo.
 
 # Project Structure
 
-<img src="https://github.com/user-attachments/assets/54b3dc02-8f7d-4975-8079-eb031d667110" />
+https://github.com/user-attachments/assets/54b3dc02-8f7d-4975-8079-eb031d667110
 
 # Setup Instructions
 # Requirements
